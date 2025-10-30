@@ -49,7 +49,7 @@ Archivo base: `data/muestras_calidad_agua.csv`
 | `reto1_temperatura.ipynb` | Clasificación térmica y riesgo | Tatiana|
 | `reto2_ph.ipynb` | Evaluación de pH y alerta química | Anny |
 | `reto3_oxigeno.ipynb` | Análisis biológico por oxígeno | Maye |
-| `reto4_integracion.ipynb` | Diagnóstico final integrando variables | Estudiante 4 |
+| `reto4_integracion.ipynb` | Diagnóstico final integrando variables | Juan |
 
 **Entrega:** cada estudiante descarga su notebook (**File → Download**) y lo entrega por Moodle o lo sube a un fork.
 
